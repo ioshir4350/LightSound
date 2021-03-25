@@ -6,7 +6,7 @@ Submitted by: **Isfar Oshir**
 
 Time spent: **2** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://github.com/ioshir4350/LightSound
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
+https://i.imgur.com/jzUgKKD.gif
 
 
 ## Reflection Questions
