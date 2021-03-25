@@ -4,7 +4,7 @@
 
 Submitted by: **Isfar Oshir**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 Link to project: https://github.com/ioshir4350/LightSound
 
